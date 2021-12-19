@@ -10,7 +10,7 @@
 
 ## Sobre o Projeto
 
-Projeto realizado para concluir o desafio da Rocketseat. "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?"
+Projeto realizado para concluir o desafio da Rocketseat. <br>"Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?"
 
 Link do projeto: https://mais-educacao.vercel.app/
 
